@@ -37,7 +37,7 @@ header{
 }
 
 #menu li{
-    list-style: none;
+    list-style: all;
     display: inline-block;
     margin: 20px;
 }
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>we will be having python basic scripting session</h1>
+         <h1>welcome to shopping</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
